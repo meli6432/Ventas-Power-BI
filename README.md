@@ -32,11 +32,13 @@ Diseñar un informe interactivo en Power BI Desktop que permita analizar las ven
 - Ropa, Electrónica, Comestibles, Limpieza y Bebidas.
 - Se muestran ventas totales y unidades vendidas por categoría.
 - Visualizaciones: gráficos de barras, columnas, treemap y matrices.
+![](Pictures/Categoria.png)
 
 2. Vendedores:
 - Ranking de vendedores por unidades vendidas y monto total cobrado.
 - Ticket promedio para evaluar eficiencia de cada vendedor.
 - Visualizaciones: barras horizontales, tablas detalladas y KPIs.
+![](Pictures/Vendedor.png)
 
 ## Resultados / Conclusiones
 - Total Ventas 2024: USD $91.16 millones.
